@@ -1,0 +1,5 @@
+{
+  "name": "nano banana pro",
+  "description": "AI-powered photo restyling application using Google Gemini API.",
+  "requestFramePermissions": []
+}
